@@ -9,6 +9,8 @@ Lockphish it's the tool  for phishing attacks on the lock screen, designed to gr
 # IP Tracker
 ## Dont Copy The Code 
 ### Usage:
+```
 git clone https://github.com/theadp/lockphish-new.git
 cd lockphish-new
 bash lockphish.sh
+```
